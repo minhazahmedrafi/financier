@@ -1,0 +1,109 @@
+@media screen and (min-width: 576px) and (max-width: 767px) {
+  a {
+    font-size: 18px !important;
+  }
+  p {
+    font-size: 18px !important;
+  }
+  span {
+    font-size: 18px !important;
+  }
+  #header-section {
+    padding: 0px 20px;
+    height: 100%;
+    padding-bottom: 100px;
+  }
+  #header-section .header-content {
+    text-align: center !important;
+  }
+  #header-section .header-content .right-img {
+    display: none;
+  }
+  #demo-services {
+    height: auto;
+    width: 100%;
+    padding: 10px 20px;
+    padding-bottom: 50px;
+  }
+  #demo-services i {
+    padding-bottom: 15px;
+  }
+  #demo-services h5 {
+    font-weight: 600;
+  }
+  #demo-services p {
+    font-size: 18px;
+  }
+  .heading h3 {
+    font-size: 28px;
+    letter-spacing: 1px;
+  }
+  .heading p {
+    width: 80%;
+  }
+  #talk-us {
+    height: auto;
+  }
+  #talk-us .left-text {
+    padding: 20px;
+  }
+  #talk-us .end-btn {
+    display: none;
+  }
+}
+
+/* For Extra Small */
+@media screen and (max-width: 575px) {
+  a {
+    font-size: 18px !important;
+  }
+  p {
+    font-size: 18px !important;
+  }
+  span {
+    font-size: 18px !important;
+  }
+  #header-section {
+    padding: 0px 20px;
+    height: 100%;
+    padding-bottom: 100px;
+  }
+  #header-section .header-content {
+    text-align: center !important;
+  }
+  #header-section .header-content .right-img {
+    display: none;
+  }
+  #demo-services {
+    height: auto;
+    width: 100%;
+    padding: 10px 20px;
+    padding-bottom: 50px;
+  }
+  #demo-services i {
+    padding-bottom: 15px;
+  }
+  #demo-services h5 {
+    font-weight: 600;
+  }
+  #demo-services p {
+    font-size: 18px;
+  }
+  .heading h3 {
+    font-size: 28px;
+    letter-spacing: 1px;
+  }
+  .heading p {
+    width: 80%;
+  }
+  #talk-us {
+    height: auto;
+  }
+  #talk-us .left-text {
+    padding: 20px;
+  }
+  #talk-us .end-btn {
+    display: none;
+  }
+}
+/*# sourceMappingURL=responsive.css.map */
